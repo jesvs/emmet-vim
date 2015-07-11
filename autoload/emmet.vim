@@ -1823,6 +1823,10 @@ let s:emmet_settings = {
 \        'extends': 'html',
 \        'attribute_name': {'class': 'className'},
 \    },
+\    'javascript.jsx': {
+\        'extends': 'html',
+\        'attribute_name': {'class': 'className'},
+\    },
 \    'xslt': {
 \        'extends': 'xsl',
 \    },
